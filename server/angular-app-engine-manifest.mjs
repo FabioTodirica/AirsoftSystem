@@ -1,6 +1,6 @@
 
 export default {
-  basePath: 'AirsoftSystem',
+  basePath: '/AirsoftSystem',
   supportedLocales: {
   "en-US": ""
 },
